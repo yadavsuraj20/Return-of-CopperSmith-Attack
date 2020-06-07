@@ -1,7 +1,6 @@
 ### Requirements
-1. python 2.7
-2. sage
-   Can be installed using the command: sudo apt install sagemath (Ubuntu 18.04)
+1. `python 2.7`
+2. `sage` - Can be installed using the command: `sudo apt install sagemath` (Ubuntu 18.04).
 
 ### key_generation.sage
 It takes key-size as input and outputs p,q and N.

@@ -4,13 +4,13 @@ The project is completed in Spring 2019. The goal of this project is to understa
 
 ## Requirements
 1. `python 2.7`
-2. `sage` - Can be installed using the command: sudo apt install sagemath (Ubuntu 18.04)
+2. `sage` - Can be installed using the command: `sudo apt install sagemath` (Ubuntu 18.04).
 
 ## Contributors
-1. Suraj - yadavsuraj20
-2. Aditya Sharma - adityasharma2000
-3. Aman Kansal - kalsalaman
-4. Yateesh Agrawal - 
+1. [Suraj](https://github.com/yadavsuraj20)
+2. [Aditya Sharma](https://github.com/adityasharma2000)
+3. [Aman Kansal](https://github.com/kansalaman)
+4. [Yateesh Agrawal](https://github.com/)
 
 ## References
 1. [The Return of Coppersmith’s Attack: Practical Factorization of Widely Used RSA
